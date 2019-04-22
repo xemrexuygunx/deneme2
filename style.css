@@ -50,3 +50,26 @@ nav li ul li {
 display:block;
 
 }
+banner {
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+}
+.banneresim
+{
+	width:1900px;
+	height:300px;
+	
+}
+#anasayfayazi
+{
+	width:1700px;
+	margin-left:100px;
+	margin-right:100px;
+	margin-bottom:50px;
+}
+.solakaydir
+{
+	float:left;
+	margin:0 10px 10px 0;
+}
