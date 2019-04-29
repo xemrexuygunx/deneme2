@@ -45,6 +45,7 @@ width:170px;
 
 nav li:hover ul {
 display:block;
+transition-duration:0.5s;
 }
 nav li ul li {
 display:block;
