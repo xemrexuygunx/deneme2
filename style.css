@@ -56,15 +56,15 @@ display:inline;
 }
 banner {
 	margin-top:0px;
-	margin-left:auto;
-	margin-right:auto;
         height:300px;
+		padding-left:3px;
+		padding-right:3px;
 }
 
 .banneresim
 {
 height:300px;
-width:1348px;;
+width:1900px;;
 }
 #anasayfayazi
 {
